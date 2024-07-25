@@ -1,1 +1,3 @@
 Streamlit
+sqlite3
+bcrypt
